@@ -1,4 +1,4 @@
-# Hangeul Jaemin 3.0
+# Hangeul Jaemin 3
 
 [Visit Source](https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13304319&menuNo=200023)
 
@@ -7,7 +7,7 @@
 CSS
 
 ```
-font-family: 'Hangeul Jaemin 3.0';
+font-family: 'Hangeul Jaemin 3';
 ```
 
 &nbsp;
@@ -15,7 +15,7 @@ font-family: 'Hangeul Jaemin 3.0';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/HangeulJaemin3.0/HangeulJaemin3.0.css" type="text/css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/HangeulJaemin3/HangeulJaemin3.css" type="text/css"/>
 ```
 
 &nbsp;
@@ -23,7 +23,7 @@ link
 import
 
 ```
-@import url('https://cdn.jsdelivr.net/gh/fonts-archive/HangeulJaemin3.0/HangeulJaemin3.0.css');
+@import url('https://cdn.jsdelivr.net/gh/fonts-archive/HangeulJaemin3/HangeulJaemin3.css');
 ```
 
 &nbsp;
@@ -32,13 +32,13 @@ font-face
 
 ```
 @font-face {
-    font-family: 'Hangeul Jaemin 3.0';
+    font-family: 'Hangeul Jaemin 3';
     font-weight: normal;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/HangeulJaemin3.0/HangeulJaemin3.0.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/HangeulJaemin3.0/HangeulJaemin3.0.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/HangeulJaemin3.0/HangeulJaemin3.0.otf') format('opentype'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/HangeulJaemin3.0/HangeulJaemin3.0.ttf') format('truetype');
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/HangeulJaemin3/HangeulJaemin3.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/HangeulJaemin3/HangeulJaemin3.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/HangeulJaemin3/HangeulJaemin3.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/HangeulJaemin3/HangeulJaemin3.ttf') format('truetype');
 }
 ```
