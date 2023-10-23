@@ -4,7 +4,7 @@
 
 &nbsp;
 
-CSS
+### CSS
 
 ```
 font-family: 'Hangeul Jaemin 3';
@@ -12,7 +12,7 @@ font-family: 'Hangeul Jaemin 3';
 
 &nbsp;
 
-link
+### link
 
 ```
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/HangeulJaemin3/HangeulJaemin3.css" type="text/css"/>
@@ -20,7 +20,7 @@ link
 
 &nbsp;
 
-import
+### import
 
 ```
 @import url('https://cdn.jsdelivr.net/gh/fonts-archive/HangeulJaemin3/HangeulJaemin3.css');
@@ -28,7 +28,7 @@ import
 
 &nbsp;
 
-font-face
+### font-face
 
 ```
 @font-face {
@@ -41,4 +41,12 @@ font-face
          url('https://cdn.jsdelivr.net/gh/fonts-archive/HangeulJaemin3/HangeulJaemin3.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/HangeulJaemin3/HangeulJaemin3.ttf') format('truetype');
 }
+```
+
+&nbsp;
+
+### 라이센스 본문
+
+```
+SIL 오픈 폰트 라이선스
 ```
